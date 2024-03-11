@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktrahsu_dev=self.webpackChunktrahsu_dev||[]).push([[472],{5513:t=>{t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"First Blog Post","permalink":"/trahsu-dev/blog/first-blog-postttt","unlisted":false}]}')}}]);

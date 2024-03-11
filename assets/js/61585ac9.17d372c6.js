@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktrahsu_dev=self.webpackChunktrahsu_dev||[]).push([[25],{6080:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/trahsu-dev/blog/tags/hola","allTagsPath":"/trahsu-dev/blog/tags","count":1,"unlisted":false}')}}]);
