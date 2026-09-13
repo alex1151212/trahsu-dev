@@ -1,3 +1,5 @@
+github pages : https://note.trahsu.cc
+
 # Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
